@@ -1,0 +1,16 @@
+{
+  "users": {
+    "8062935882": {
+      "rate_limit": {
+        "date": "2026-06-16",
+        "count": 7,
+        "last_send": 1781604460.159215
+      },
+      "premium": true,
+      "email": "sadiyah@walzhop.site",
+      "password": "sadiyah55",
+      "template_index": 3
+    }
+  },
+  "template_counter": 9
+}
